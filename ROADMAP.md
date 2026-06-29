@@ -1,37 +1,55 @@
-v1.0
+# ABIT Roadmap
 
-Framework
+## ABIT v1.0.0 - Core Engine
 
-Trend Engine
+Status: Development
 
-Dashboard
+### Core
+- [x] Project structure
+- [ ] Pine Script framework
+- [ ] Strategy engine
+- [ ] Input management
 
-Score Engine
+### Analysis Engine
+- [ ] Market Regime Detection
+- [ ] Trend Engine
+- [ ] Market Structure
+- [ ] Liquidity Engine
+- [ ] Volume Engine
+- [ ] Momentum Engine
 
-Strategy
+### Risk Engine
+- [ ] ATR Stop
+- [ ] Dynamic TP
+- [ ] Risk/Reward calculation
+- [ ] Leverage suggestion
 
------------------
+### Interface
+- [ ] Dashboard
+- [ ] Alerts
+- [ ] Debug mode
 
-v1.1
 
-Liquidity
+---
 
-BOS
+## ABIT v1.1.0
 
-Structure
+Smart Money
 
------------------
+- BOS
+- CHoCH
+- Liquidity Sweep
+- Order Block
+- FVG
 
-v1.2
 
-Order Block
+---
 
-FVG
+## ABIT v2.0.0
 
-Premium Discount
+AI Layer
 
------------------
-
-v2.0
-
-AI Decision Engine
+- AI confidence score
+- Trade explanation
+- External AI integration
+- Trade journal
