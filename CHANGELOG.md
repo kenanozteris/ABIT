@@ -1,9 +1,25 @@
-v1.0.0
+# ABIT Changelog
 
-Initial release
 
-Framework
+## v0.0.1
 
-Trend Engine
+Initial project creation.
 
-Dashboard
+Added:
+
+- Repository structure
+- Development roadmap
+- Project documentation
+
+
+## v1.0.0 (planned)
+
+First working strategy release.
+
+Includes:
+
+- Trend Engine
+- Score Engine
+- Risk Engine
+- Dashboard
+- Backtest system
